@@ -1,0 +1,12 @@
+#firstFooter{
+    background-color: #566573;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 125px;
+
+}
+#pFooter{
+    font-size: 18px;
+    color: white;
+}
