@@ -1,0 +1,22 @@
+.navbar {
+    display: inline;
+    background-color: #343A40;
+}
+
+.brand {
+    float: left;
+    font-size: 18px;
+    color: white;
+}
+
+ul .nav {
+    float: right;
+    font-size: 18px;
+    color: white;
+    padding: 4px;
+
+}
+li {
+    font-size: 18px;
+    padding: 4px;
+}
